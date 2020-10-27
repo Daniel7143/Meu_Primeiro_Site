@@ -1,0 +1,23 @@
+@charset "utf-8"; /* shazam */
+
+
+h1 {
+   
+font-family: cursive;
+text-align: center;
+background-color: #2d6a4f;
+
+}
+
+body {
+
+margin: 0;
+font-size: 1em;
+background-color: #52b788;
+}
+
+article {
+
+margin: 0;
+font-size: 1cm;
+}
